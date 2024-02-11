@@ -14,6 +14,8 @@ hello_world Nutzer*innen
 
 中文中混有*Strong*和_Empasis_。
 
+한국어는, *볼드체*나 따옴표 ‘ ’ 등을 이용하여 문장 그 자체나 문장의 성분을 강조합니다.
+
 // Can contain paragraph in nested content block.
 _Still #[
 
